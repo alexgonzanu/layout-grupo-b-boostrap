@@ -1,0 +1,11 @@
+header, footer {
+  background-color: #2d3142;
+  color: #fff;
+}
+section {
+    background-color: #d8d5db;
+}
+
+section:last-of-type {
+    background-color: #adacb5;
+}
