@@ -1,11 +1,21 @@
 header, footer {
   background-color: #2d3142;
   color: #fff;
+  height: 100px;
 }
 section {
     background-color: #d8d5db;
+    flex-grow: 1;
 }
-
 section:last-of-type {
     background-color: #adacb5;
+}
+footer {
+  text-align: center;
+}
+.contenedor {
+  height: 100vh;
+}
+main {
+  flex-grow: 1;
 }
