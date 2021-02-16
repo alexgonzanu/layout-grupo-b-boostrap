@@ -10,9 +10,6 @@ section {
 section:last-of-type {
     background-color: #adacb5;
 }
-footer {
-  text-align: center;
-}
 .contenedor {
   height: 100vh;
 }
